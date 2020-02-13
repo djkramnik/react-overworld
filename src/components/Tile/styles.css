@@ -1,0 +1,10 @@
+.tile {
+  box-sizing: border-box;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.tile__img {
+  height: auto;
+  width: 100%;
+}
